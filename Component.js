@@ -1,0 +1,1 @@
+sap.ui.define(["sap/ui/core/UIComponent","sap/ui/Device","sap/git/basic/GitBasicProject/model/models"],function(e,i,t){"use strict";return e.extend("sap.git.basic.GitBasicProject.Component",{metadata:{manifest:"json"},init:function(){e.prototype.init.apply(this,arguments);this.getRouter().initialize();this.setModel(t.createDeviceModel(),"device")}})});

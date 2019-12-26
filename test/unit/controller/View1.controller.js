@@ -1,0 +1,1 @@
+sap.ui.define(["sap/git/basic/GitBasicProject/controller/View1.controller"],function(t){"use strict";QUnit.module("View1 Controller");QUnit.test("I should test the View1 controller",function(e){var i=new t;i.onInit();e.ok(i)})});
