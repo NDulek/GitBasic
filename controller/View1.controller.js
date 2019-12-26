@@ -1,0 +1,1 @@
+sap.ui.define(["sap/ui/core/mvc/Controller"],function(i){"use strict";return i.extend("sap.git.basic.GitBasicProject.controller.View1",{onInit:function(){}})});
